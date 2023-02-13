@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33402.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "si.gapi.samples.SqlBrokerDemo", "si.gapi.samples.SqlBrokerDemo.csproj", "{A9C1FB08-DFCA-43A5-BC14-7D5D16D8042F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C1FB08-DFCA-43A5-BC14-7D5D16D8042F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C1FB08-DFCA-43A5-BC14-7D5D16D8042F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C1FB08-DFCA-43A5-BC14-7D5D16D8042F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C1FB08-DFCA-43A5-BC14-7D5D16D8042F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF2A7FD6-B5F5-483F-B1C2-83EBB7D2988E}
+	EndGlobalSection
+EndGlobal
